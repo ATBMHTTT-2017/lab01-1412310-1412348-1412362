@@ -3,7 +3,7 @@
 **Name of your app** là một bài tập 1 tại môn ATBMHTTT. Bài tập yêu cầu sinh viên tạo cơ sở dữ liệu, phân quyền theo các yêu cầu.
 
 Thành viên:
-* [ ] **1412310** Ngô Thị Mai Lý (tên tài khoản github)
+* [ ] **1412310** Ngô Thị Mai Lý (ngothimaily1510@gmail.com)
 * [ ] **1412348** Đỗ Thị Bích Ngọc (dobichngocdp96@gmail.com)
 * [ ] **1412362** Võ Đặng Nguyễn (nguyenhihihi@gmail.com)
 
