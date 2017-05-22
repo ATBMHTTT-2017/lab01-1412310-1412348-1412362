@@ -17,7 +17,7 @@ as
   user varchar2(100);
 begin
   user := sys_context('userenv', 'session_user');
-  return 'manv = lower('''||user||''')';
+  return 'manv = ' || q'[']' || user  ||  q'[']';
 end;
 
 begin
